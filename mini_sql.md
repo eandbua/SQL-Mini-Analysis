@@ -4,7 +4,7 @@
 - Data source : Bigquery Public Dataset
 - Dataset : The look E-commerce
 
-created by : Riki
+created by : EANDBUA
 
 ## Analysis
 
