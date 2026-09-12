@@ -21,7 +21,7 @@ FROM
 
 **Ouput**
 
-terdapat sebanyak 181.589 item yang tecatat dalam transaksi the look commerce
+Terdapat sebanyak 181.589 item yang tecatat dalam transaksi the look commerce
 
 ### 2. Top 3 kategori produk yang tercatat ?
 **Syntax**
@@ -41,7 +41,6 @@ ORDER BY jumlah_items ASC;
 
 **Output**
 - Top 3 : Intimates (13.529), Jeans (12.595), Tops & Tees (11.946)
-- Last 3 : Clothing Sets (220), Jumpsuits & Rompers (901), Suits (972)
 
 ### 3. Kategori produk yang paling banyak terjual/komplit ?
 **Syntax**
